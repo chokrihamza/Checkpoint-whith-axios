@@ -1,0 +1,6 @@
+.card:hover{
+  background-color: rgb(17, 28, 28);
+  color:white;
+  transform:scale(1.04);
+  transition: ease-in-out 300ms;
+}
